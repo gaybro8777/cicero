@@ -68,7 +68,7 @@
     "fast-safe-stringify": "2.0.5",
     "ietf-language-tag-regex": "0.0.5",
     "json-stable-stringify": "1.0.1",
-    "jszip": "3.1.5",
+    "jszip": "3.7.0",
     "moment-mini": "2.22.1",
     "moo": "0.4.3",
     "nearley": "2.15.1",
