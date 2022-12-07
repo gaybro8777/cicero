@@ -55,7 +55,7 @@
   "dependencies": {
     "@accordproject/cicero-core": "0.12.3",
     "@accordproject/cicero-engine": "0.12.3",
-    "express": "4.16.2"
+    "express": "4.17.3"
   },
   "license-check-config": {
     "src": [
